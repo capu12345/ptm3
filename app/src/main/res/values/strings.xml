@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="question_amlo">¿Amlo es el mejor presidente del mundo?</string>
+    <string name="question_cuvalles">¿Cuvalles es la mejor universidad de la udg?</string>
+    <string name="question_gatos">¿Gatos > Perros?</string>
+    <string name="question_aguacate">¿El cielo es color aguacate?</string>
+    <string name="question_rene">¿Renegul777 el mejor streamer?</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="correct_text">Correcto!</string>
+    <string name="incorrect_text">Incorrecto!</string>
+    <string name="next_button">Siguiente</string>
+    <string name="prev_button">Anterior</string>
+    <string name="warning_text">¿Seguro?</string>
+    <string name="show_answer_button">Ver esta</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_text">Cheating is wrong.</string>
+    <string name="back_text">Back</string>
+</resources>
